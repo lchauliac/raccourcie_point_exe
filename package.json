@@ -1,0 +1,19 @@
+{
+  "name": "raccourcie_point_exe",
+  "version": "1.0.0",
+  "description": "le jeux qui va révolutionner le monde d'internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchauliac/raccourcie_point_exe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchauliac/raccourcie_point_exe/issues"
+  },
+  "homepage": "https://github.com/lchauliac/raccourcie_point_exe#readme"
+}
